@@ -5,13 +5,13 @@ categories: [Intro, welcome]
 tags: [hello]	# TAG names should always be lowercase
 description: Short summary of the post.
 comments: true
-toc: true
+toc: false
 ---
 
 # My first post here :)
 
 I have focused myself more on learning how to setup jekyll and put my blog live on the web
-More things to come ...
+# More things to come ...
 
 ```py
 print('Goodbye')
