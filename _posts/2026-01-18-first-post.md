@@ -3,6 +3,9 @@ title: Introduction
 date: 2026-01-18
 categories: [Intro, welcome]
 tags: [hello]	# TAG names should always be lowercase
+description: Short summary of the post.
+comments: true
+toc: true
 ---
 
 # My first post here :)
