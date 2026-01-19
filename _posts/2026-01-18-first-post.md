@@ -13,6 +13,10 @@ toc: false
 I have focused myself more on learning how to setup jekyll and put my blog live on the web
 # More things to come ...
 
+Well, writing blogs doesn't come that easy to many of us.
+I am one of them.
+
+
 ```py
 print('Goodbye')
 ```
