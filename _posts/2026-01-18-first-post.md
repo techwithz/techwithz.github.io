@@ -10,17 +10,15 @@ toc: false
 
 # My first post here :)
 
-I have focused myself more on learning how to setup jekyll and put my blog live on the web
-# More things to come ...
+I have focused myself more on learning how to setup jekyll and put my blog live on the web,
+so I didn't have much time to write my first blog here. 
 
 Well, writing blogs doesn't come that easy to many of us.
 I am one of them.
 
+This blog will be dedicated to tech related things.
+
 
 ```py
-print('Goodbye')
-```
-
-```bash
-sudo apt update && sudo apt upgrade
+print('Goodbye for now ...')
 ```
