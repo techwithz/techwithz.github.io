@@ -20,3 +20,7 @@ I am one of them.
 ```py
 print('Goodbye')
 ```
+
+```bash
+sudo apt update && sudo apt upgrade
+```
